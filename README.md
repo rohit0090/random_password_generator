@@ -18,7 +18,7 @@ Pyperclip (pip install pyperclip)
 
 Installation
 
-Clone the repository:git clone  https://github.com/rohit0090/random_password_generator.gitgit
+Clone the repository:git clone  https://github.com/rohit0090/random_password_generator.git
 
 
 Navigate to the project directory:cd password_generator
